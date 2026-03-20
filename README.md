@@ -21,6 +21,7 @@ Skill scores (technical, communication, teamwork)
 Engagement (training hours, certifications)
 
 🧹 Data Cleaning Steps
+
 ✔ Handling Missing Values
 
 Identified missing values in:
