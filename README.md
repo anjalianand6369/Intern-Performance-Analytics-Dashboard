@@ -10,29 +10,29 @@
 
 The dataset contains 1000 intern records with attributes related to:
 
-Demographics (age, gender)
+  Demographics (age, gender)
 
-Performance (task completion, project score)
+  Performance (task completion, project score)
 
-Behavioral metrics (attendance, punctuality)
+  Behavioral metrics (attendance, punctuality)
 
-Skill scores (technical, communication, teamwork)
+  Skill scores (technical, communication, teamwork)
 
-Engagement (training hours, certifications)
+  Engagement (training hours, certifications)
 
 🧹 Data Cleaning Steps
 
 ✔ Handling Missing Values
 
-    Identified missing values in:
+   Identified missing values in:
 
-    communication_score
+   communication_score
 
-    technical_score
+   technical_score
 
-    mentor_feedback_score
+   mentor_feedback_score
 
-    Filled missing values using median imputation to maintain data integrity.
+   Filled missing values using median imputation to maintain data integrity.
 
 ✔ Standardizing Categorical Data
 
