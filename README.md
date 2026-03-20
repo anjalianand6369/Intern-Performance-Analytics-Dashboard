@@ -24,15 +24,15 @@ Engagement (training hours, certifications)
 
 ✔ Handling Missing Values
 
-Identified missing values in:
+    Identified missing values in:
 
-communication_score
+    communication_score
 
-technical_score
+    technical_score
 
-mentor_feedback_score
+    mentor_feedback_score
 
-Filled missing values using median imputation to maintain data integrity.
+    Filled missing values using median imputation to maintain data integrity.
 
 ✔ Standardizing Categorical Data
 
